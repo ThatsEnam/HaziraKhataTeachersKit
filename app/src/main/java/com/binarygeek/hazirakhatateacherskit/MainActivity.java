@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(context, ClassActivity.class);
                 startActivity(intent);
             }
-        });
+        });//Gk emon
 
     }
 
